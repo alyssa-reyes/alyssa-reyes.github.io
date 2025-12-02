@@ -1,0 +1,38 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alyssa Reyes | Portfolio</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<header>
+    <h1>Hello, I’m Alyssa 👋</h1>
+    <p>Environmental Scientist | GIS Analyst | Remote Sensing | Ecology</p>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I specialize in spatial ecology, remote sensing, and geospatial analysis...</p>
+</section>
+
+<section id="projects">
+    <h2>Projects</h2>
+    <ul>
+        <li><a href="projects/campfire.html">Vegetation Recovery After the Camp Fire</a></li>
+        <li><a href="projects/habitat-connectivity.html">Habitat Connectivity in Southern California</a></li>
+        <li><a href="projects/watershed-analysis.html">San Dieguito Watershed Modeling</a></li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your-email@example.com</p>
+    <p>LinkedIn: <a href="your-linkedin-url">View Profile</a></p>
+</section>
+
+</body>
+</html>
